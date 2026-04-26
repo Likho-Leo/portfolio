@@ -55,7 +55,7 @@ function Hero(){
 
                     <div className="info-row">
                         <span className="info-label">Focus</span>
-                        <span className="info-val">C# · ASP.NET Core · SQL</span>
+                        <span className="info-val accent">C# · ASP.NET Core · SQL</span>
                     </div>
                 </div>
             </div>
