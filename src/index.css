@@ -301,3 +301,31 @@ nav{
 .info-val {color: var(--text-primary); font-weight: 500;}
 .info-val.green {color: var(--accent-green);}
 .info-val.accent {color: var(--accent);}
+
+/*SCROLL INDICATOR*/
+.scroll-hint {
+  position:absolute;
+  bottom: 32px;
+  left: 48px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 11px;
+  color: var(--text-muted);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  z-index: 1;
+}
+
+.scroll-line {
+  width: 40px;
+  height:1px;
+  background: var(--text-muted);
+  animation: scrollPulse 2s ease-in-out infinite;
+}
+
+@keyframes scrollPulse {
+  0%, 10% {opacity: 0.3; transform: scaleX(1);}
+  50% {opacity: 1; transform: scaleX(1.3); transform-origin: left;}
+}
+
