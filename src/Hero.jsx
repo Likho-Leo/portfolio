@@ -1,3 +1,4 @@
+import Avatar from "./assets/avatar.jpg"
 
 function Hero(){
 
@@ -26,7 +27,7 @@ function Hero(){
             <div className="hero-right">
                 <div className="avatar-wrap">
                     <div className="avatar">
-                        LL
+                        <img src={Avatar}/>
                     </div>
                     <div className="avatar-ring"></div>
                     <div className="status-badge" title="Open to work"></div>
