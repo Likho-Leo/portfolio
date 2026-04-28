@@ -1,6 +1,7 @@
 import Nav from "./nav";
 import Hero from "./Hero";
 import Skills from "./Skills";
+import Projects from "./Projects";
 
 function App() {
   return(
@@ -8,6 +9,7 @@ function App() {
       <Nav/>
       <Hero/>
       <Skills/>
+      <Projects/>
     </>
   );
 }
