@@ -40,7 +40,6 @@ function Projects(){
                             <span className="tag">ASP.NET Core</span>
                             <span className="tag">SQL Server</span>
                             <span className="tag">Dapper</span>
-                            <span className="tag">RBAC</span>
                             <span className="tag">MVC</span>
                         </div>
                         <div style={{marginTop: "14px", display: "flex", gap: "12px", alignItems: "center"}}>

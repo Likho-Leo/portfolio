@@ -500,3 +500,80 @@ nav{
   color: var(--text-secondary);
   border: 0.5px solid var(--dark-border);
 }
+
+/*About*/
+.about-section {
+  background: var(--light-bg);
+  padding: 80px 48px;
+}
+
+.about-grid {
+  display: grid;
+  grid-template-columns: 1fr 340px;
+  gap: 48px;
+  align-items: start;
+  margin-top: 40px;
+}
+
+.about-text p{
+  font-size: 15px;
+  font-weight: 300;
+  color: var(--light-text-2);
+  line-height: 1.9;
+  margin-bottom: 18px;
+}
+
+.pull-quote {
+  border-left: 3px solid var(--accent-2);
+  padding: 4px 0px 4px 20px;
+  border-radius: 0;
+  font-family: 'Syne' sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--light-text);
+  line-height: 1.5;
+  margin: 28px 0;
+}
+
+.about-aside {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.aside-card {
+  background: #fff;
+  border: 0.5px solid var(--light-border);
+  border-radius: 12px;
+  padding: 18px 20px;
+} 
+
+.aside-title {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--light-text-2);
+  margin-bottom: 12px;
+  font-weight: 500;
+}
+
+.aside-item {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  padding: 7px 0;
+  border-bottom: 0.5px solid var(--light-border);
+}
+
+.aside-item:last-child { 
+  border: none;
+ }
+
+ .aside-key {
+  color: var(--light-text-2);
+ }
+
+ .aside-val {
+  color: var(--light-text);
+  font-weight: 500;
+ }
