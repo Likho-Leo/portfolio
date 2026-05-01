@@ -577,3 +577,70 @@ nav{
   color: var(--light-text);
   font-weight: 500;
  }
+
+ .contact-section {
+  background: var(--dark-2);
+  border-top: 0.5px solid var(--dark-border);
+  padding: 80px 46px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 48px;
+  align-items: center;
+ }
+
+ .contact-heading {
+  font-family: 'Syne', sans-serif;
+  font-size: 42px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--text-primary);
+  margin-bottom: 12px;
+ }
+
+ .contact-sub {
+  font-size: 15px;
+  font-weight: 300;
+  color: var(--text-secondary);
+  margin-bottom: 32px;
+  line-height: 1.7;
+ }
+
+ .contact-btns {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+ }
+
+ .contact-info {
+  display: flex;
+  flex-direction: column;
+  gap: 14px
+ }
+
+ .contact-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 18px;
+  background: var(--dark-3);
+  border: 0.5px solid var(--dark-border);
+  border-radius: 8px;
+  font-size: 13px;
+ }
+
+ .contact-row-label {
+  color: var(--text-muted);
+  min-width: 60px;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+ }
+
+ .contact-row-val {
+  color: var(--text-primary);
+ }
+
+ .contact-row-val a {
+  color: var(--accent);
+  text-decoration: none;
+ }
