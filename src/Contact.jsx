@@ -23,7 +23,7 @@ function Contact(){
                     <span className="contact-row-val">Eastern Cape, South Africa</span>
                 </div>
                 <div className="contact-row">
-                    <span className="contact-row-label">Qualification</span>
+                    <span className="contact-row-label">Education</span>
                     <span className="contact-row-val">Adv. Diploma, Nelson Mandela University</span>
                 </div>
                 <div className="contact-row">
