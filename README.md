@@ -59,4 +59,3 @@ npm run dev
 
 **Likho Leohla**  
 📧 likholeohla15@gmail.com  
-🔗 [LinkedIn](#) · [GitHub](https://github.com/LikhoLeohla)
