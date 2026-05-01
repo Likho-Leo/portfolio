@@ -2,7 +2,6 @@
 
 Personal portfolio website built with React, showcasing my work as an Information Technology graduate specialising in backend development and system design.
 
-🔗 **Live site:** [your-url-here]
 
 ---
 
