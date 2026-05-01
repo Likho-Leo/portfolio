@@ -15,7 +15,7 @@ function Hero(){
 
                 <p className="hero-tagline">Backend Development · System Design · Problem Solving</p>
                 <p className="hero-desc">
-                    IT graduate specializing in backend development and system design. I build and support applications using c#, ASP.NET Core, and SQL Server, with a focus on reliability, data handling and solving real operational challanges.
+                    IT graduate specializing in backend development and system design. I build and support applications using C#, ASP.NET Core, and SQL Server, with a focus on reliability, data handling and solving real operational challanges.
                 </p>
 
                 <div className="hero-btns">
