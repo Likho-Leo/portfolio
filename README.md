@@ -36,7 +36,7 @@ This portfolio highlights my academic projects, certifications, and technical sk
 |---|---|---|
 | Student Management System | C#, Windows Forms, SQL Server, ADO.NET | [GitHub](https://github.com/Likho-Leo/Student_Management_System) |
 | Ward Management System | C#, ASP.NET Core, Dapper, SQL Server | [GitHub](https://github.com/Likho-Leo/Ward__Management_System) · [Demo](https://youtu.be/LBBG_p6BF90) |
-| AutoSMME Marketplace | HTML, CSS, JavaScript | [GitHub](#) · [Demo](https://youtu.be/BEdOIwZLY0E) |
+| AutoSMME Marketplace | HTML, CSS, JavaScript | [GitHub](https://github.com/Likho-Leo/AutoSMME-Marketplace) · [Demo](https://youtu.be/BEdOIwZLY0E) |
 
 ---
 
