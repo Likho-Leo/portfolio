@@ -1,4 +1,4 @@
-import Nav from "./nav";
+import Nav from "./Nav";
 import Hero from "./Hero";
 import Skills from "./Skills";
 import Projects from "./Projects";
