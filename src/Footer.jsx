@@ -5,7 +5,7 @@ function Footer(){
 
         <footer>
             <span>Likho Leohla</span>
-            <p>&copy · Likho Leohla · Built with intention</p>
+            <p>&copy; · Likho Leohla · Built with intention</p>
         </footer>
         
     );
