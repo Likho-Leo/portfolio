@@ -6,7 +6,7 @@ function Contact(){
         <section className="contact-section" id="contact">
             <div>
                 <h2 classClass="contact-heading">Let's build<br/>something.</h2>
-                <p className="contact-sub">Open to job opportunities, graduate roles, and collaborations. If you're looking for a backend devloper who takes ownership and keeps learning, let;s talk.</p>
+                <p className="contact-sub">Open to job opportunities, graduate roles, and collaborations. If you're looking for a backend devloper who takes ownership and keeps learning, let's talk.</p>
                 <div className="contact-btns">
                     <a href="mailto:likholeohla15@gmail.com" className="btn-primary">Send an email</a>
                     <a href="https://github.com/Likho-Leo" target="_blank" className="btn-ghost">GitHub</a>
