@@ -20,7 +20,7 @@ function Contact(){
                 </div>
                 <div className="contact-row">
                     <span className="contact-row-label">Location</span>
-                    <span className="contact-row-val">Eastern Cape, South Africa</span>
+                    <span className="contact-row-val">Gauteng, South Africa</span>
                 </div>
                 <div className="contact-row">
                     <span className="contact-row-label">Education</span>
