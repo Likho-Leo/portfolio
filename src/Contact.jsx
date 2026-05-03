@@ -10,7 +10,7 @@ function Contact(){
                 <div className="contact-btns">
                     <a href="mailto:likholeohla15@gmail.com" className="btn-primary">Send an email</a>
                     <a href="https://github.com/Likho-Leo" target="_blank" className="btn-ghost">GitHub</a>
-                    <a href="#" target="_blank" className="btn-ghost">LinkedIn</a>
+                    <a href="www.linkedin.com/in/likho-leohla-b0479625a" target="_blank" className="btn-ghost">LinkedIn</a>
                 </div>
             </div>
             <div className="contact-info">
