@@ -12,7 +12,7 @@ function About(){
                     <p>I'm Likho Leohla, an Information Technology graduate from Nelson Mandela University.</p>
                     <p>I focus on software development, with experience in building and supporting applications using C#, ASP.NET Core, and SQL Server. My work involves solving problems through structured system design, debugging and imroving application reliablity.</p>
                     <div className="pull-quote">
-                        "I approach development wuth a mindset of continous improvement. I'm always looking for better ways to build, optimise, and support software systems."
+                        "I approach development with a mindset of continous improvement. I'm always looking for better ways to build, optimise, and support software systems."
                     </div>
                     <p>Beyond academics, I continously develop my skills through personal projects and self learning. I have a strong interest in building systems that are practical, efficient and scalable.</p>
                     <p>I value teamwork, clear communications, and taking ownership of problems. I've learned that carrying everything solo will burn you out. Collaboration and accountability are what make systems and teams work well.</p>
