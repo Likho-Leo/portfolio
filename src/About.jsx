@@ -50,7 +50,7 @@ function About(){
                             </div>
                             <div className="aside-item">
                                 <span className="aside-key">EC Automative Hackathon</span>
-                                <span className="aside-val"> Participant · 2025</span>
+                                <span className="aside-val"> AIDCEC · 2025</span>
                             </div>
                         </div>
                     </div>
