@@ -44,7 +44,7 @@ This portfolio highlights my academic projects, certifications, and technical sk
 
 ```bash
 # Clone the repo
-git clone https://github.com/LikhoLeohla/portfolio.git
+git clone https://github.com/Likho-Leo/portfolio.git
 
 # Install dependencies
 npm install
