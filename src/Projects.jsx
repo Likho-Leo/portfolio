@@ -25,6 +25,7 @@ function Projects(){
                         </div>
                         <div style={{marginTop: "14px", display: "flex", gap: "12px", alignItems: "center"}}>
                             <a href="https://github.com/Likho-Leo/HireTracker" target="_blank" style={{fontSize: "12px", textDecoration: "none", color: "#4fc3f7"}}>View on GitHub ↗</a>
+                            <a href="https://youtu.be/5Bg39xDvDTw" target="_blank" style={{fontSize: "12px", textDecoration: "none", color: "#3fb950"}}>Watch Demo ↗</a>
 
                         </div>
                     </div>
